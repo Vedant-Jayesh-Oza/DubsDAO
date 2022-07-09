@@ -16,9 +16,8 @@ DubsDAO is a Decentralized Autonomous Organization for Golden State Warrior Fans
 # Current Progress of the Project
 
 
-https://user-images.githubusercontent.com/75005433/178102734-f5f45cc2-a8e1-4f83-89f7-7d787781f2b9.mp4
+https://user-images.githubusercontent.com/75005433/178107232-cab05333-cfb6-41d2-8ae6-37cd48216d97.mp4
 
-
-
+<br>
 
 ![image](https://user-images.githubusercontent.com/75005433/178105454-2d0cdf6c-89a0-48c9-a38a-78350f65a626.png)
