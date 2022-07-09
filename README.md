@@ -1,10 +1,24 @@
-# Welcome to HustlersDAO - Built a DAO with just Javascript
+# Welcome to DubsDAO - Built a DAO with just Javascript
+DubsDAO is a Decentralized Autonomous Organization for Golden State Warrior Fans. This DAO is created with just Javascript, React.js and ThirdWeb. Thirdweb is a tool which helps working with the smart contracts with just javascript.
 
-### **Welcome 👋**
-To get started with this project, clone this repo and follow these commands:
+## Built With
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Vedant-Jayesh-Oza/DubsDAO/search?l=javascript) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
+# Current Features of the projects 
+- Connect the metamask wallet with the website 
+- User Mint their own NFT and be a member of DubsDAO
+
+# Upcoming Features 
+- DubsDAO Governance Token 
+- DubsDAO Treasury 
+- Voting feature for members of the DAO to vote on certain proposals
+
+# Current Progress of the Project
+
+
+https://user-images.githubusercontent.com/75005433/178102734-f5f45cc2-a8e1-4f83-89f7-7d787781f2b9.mp4
 
 
 
+
+![Screenshot 2022-07-09 154709](https://user-images.githubusercontent.com/75005433/178102739-3018ce2a-566f-4651-bec6-5510c79402f4.png)
