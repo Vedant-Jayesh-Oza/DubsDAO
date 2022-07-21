@@ -7,9 +7,9 @@ DubsDAO is a Decentralized Autonomous Organization for Golden State Warrior Fans
 # Current Features of the projects 
 - Connect the metamask wallet with the website 
 - User Mint their own NFT and be a member of DubsDAO
+- DubsDAO Governance Token 
 
 # Upcoming Features 
-- DubsDAO Governance Token 
 - DubsDAO Treasury 
 - Voting feature for members of the DAO to vote on certain proposals
 
@@ -21,3 +21,7 @@ https://user-images.githubusercontent.com/75005433/178107232-cab05333-cfb6-41d2-
 <br>
 
 ![image](https://user-images.githubusercontent.com/75005433/178105454-2d0cdf6c-89a0-48c9-a38a-78350f65a626.png)
+
+<br>
+
+![members of DAO ](https://user-images.githubusercontent.com/75005433/180264837-9a7d2ad2-d376-46e3-9963-957663f15bca.png)
