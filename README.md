@@ -24,4 +24,5 @@ https://user-images.githubusercontent.com/75005433/178107232-cab05333-cfb6-41d2-
 
 <br>
 
-![members of DAO ](https://user-images.githubusercontent.com/75005433/180264837-9a7d2ad2-d376-46e3-9963-957663f15bca.png)
+![members of DAO og](https://user-images.githubusercontent.com/75005433/180265510-b1142ae7-9d38-49bd-b0a4-9f6d90fb5ff0.png)
+
