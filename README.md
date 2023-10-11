@@ -36,5 +36,9 @@ https://user-images.githubusercontent.com/75005433/178107232-cab05333-cfb6-41d2-
 
 ![members of DAO og](https://user-images.githubusercontent.com/75005433/180265510-b1142ae7-9d38-49bd-b0a4-9f6d90fb5ff0.png)
 
+<br> 
+![DAOO (1)](https://github.com/Vedant-Jayesh-Oza/DubsDAO/assets/75005433/0b51dbb6-6dce-43f9-af09-299255b91527)
+
+
 # Disclaimer 
 This Project was developed using Rinkeby Test Network Which is now Depreciated and the so currently the app won't run 
